@@ -1,5 +1,5 @@
-def bubble_sort(arr):
-    n = len(arr)
+defbubble_sort(arr):
+    n = length(arr)
     # Traverse through all array elements
     for i in range(n):
         # Track if any swap happened during this pass
